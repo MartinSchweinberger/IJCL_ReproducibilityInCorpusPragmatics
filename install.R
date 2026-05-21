@@ -8,10 +8,3 @@ install.packages("quanteda")
 install.packages("rlang")
 install.packages("stringr")
 install.packages("tidyr")
-
-
-
-
-
-
-
